@@ -1,0 +1,84 @@
+body{
+    height: 100vh;
+    background-image: url(https://img.freepik.com/free-vector/students-learning-foreign-language-with-vocabulary_74855-11070.jpg?w=1060&t=st=1659681660~exp=1659682260~hmac=5cde59994f5579dedd7e5e46d297e8bb8a5fe5b9ff6dd5f536bcd82854d1be4e);
+    background-size: auto;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+p{
+    color: rgb(66, 66, 131);
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 10px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    padding-left: 90px;
+    padding-bottom: 20px;
+}
+
+a{
+    color: rgb(66, 66, 131);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.inputan{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    padding: 25px 30px;
+    width: 300px;
+}
+
+.inputan h1{
+    text-align: left;
+    color: #364f6b;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: uppercase;
+    border-bottom: 4px solid #364f6b;
+}
+
+.inputan label{
+    text-align: left;
+    color: #27394d;
+}
+
+.inputan form input{
+    padding: 8px 10px;
+    margin-bottom: 15px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid #364f6b;
+    color: black;
+    font-size: 20px;
+}
+
+.inputan form button{
+    width: 100%;
+    height: 40px;
+    padding: 5px 0;
+    border: none;
+    background-color: #364f6b;
+    font-size: 18px;
+    color: #fafafa;
+    border-radius: 20px;
+}
+
+.button{
+    background: #3f72af;
+    border-radius: 20px;
+    padding: 15px 20px 15px 20px;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.tombol{
+    margin-top: 40px;
+}
